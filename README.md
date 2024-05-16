@@ -11,7 +11,7 @@ Part of the main Spring 6 course, this repo contaisn a basic Spring RestTemplate
 ## Related Repositories
 
 The folowing Repositories are also part of the course:
-- [Main Repo - Spring MVC RestAPI](https://www.udemy.com/course/spring-framework-6-beginner-to-guru)
+- [Main Repo - Spring MVC RestAPI](https://github.com/EderBasso/spring-framework-6)
 - [Spring Auth Server](https://github.com/EderBasso/spring-6-auth-server)
 - [Spring Reactive Examples With Web Flux MVC](https://github.com/EderBasso/spring-6-reactive-examples)
 - [Spring Reactive With Mongo and WebFlux.fn](https://github.com/EderBasso/spring-6-reactive-mongo)
